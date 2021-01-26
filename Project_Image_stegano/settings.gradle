@@ -1,0 +1,2 @@
+rootProject.name='Project_Image_stegano'
+include ':app'
